@@ -103,3 +103,5 @@ http://wiringpi.com/reference/software-pwm-library/
 **Rasbperry Pi Specifics**
 http://wiringpi.com/reference/raspberry-pi-specifics/
 
+**Core functions**
+http://wiringpi.com/reference/core-functions/
