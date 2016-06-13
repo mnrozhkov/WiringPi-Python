@@ -91,3 +91,15 @@ Hook a speaker up to your Pi and generate music with softTone. Also useful for g
 
 **Full details at:**
 http://www.wiringpi.com
+
+#Documentation References 
+
+**Initial Setup**
+http://wiringpi.com/reference/setup/
+
+**Software PWM Library**
+http://wiringpi.com/reference/software-pwm-library/
+
+**Rasbperry Pi Specifics**
+http://wiringpi.com/reference/raspberry-pi-specifics/
+
