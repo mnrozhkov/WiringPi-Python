@@ -105,3 +105,6 @@ http://wiringpi.com/reference/raspberry-pi-specifics/
 
 **Core functions**
 http://wiringpi.com/reference/core-functions/
+
+**Functinos (API)**
+https://projects.drogon.net/raspberry-pi/wiringpi/functions/
